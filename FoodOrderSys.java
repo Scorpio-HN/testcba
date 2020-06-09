@@ -7,7 +7,7 @@ import java.util.Scanner;
  * time:2020-06-09
  * version:1.2
  *  1.1-1.2 增加了取消订单
- * 
+ *  哈哈哈
  * */
 public class FoodOrderSys {
 	public static void main(String[] args) {
