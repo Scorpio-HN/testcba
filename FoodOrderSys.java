@@ -7,10 +7,12 @@ import java.util.Scanner;
  * time:2020-06-09
  * version:1.2
  *  1.1-1.2 增加了取消订单
- *  哈哈哈
+ * 
  * */
 public class FoodOrderSys {
 	public static void main(String[] args) {
+		
+		//测试这个代码修改
 		
 		System.out.println("show --time");
 		//数据主体 （定义多个数组--用来存储  菜单，订单信息）
