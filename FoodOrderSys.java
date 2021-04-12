@@ -1,4 +1,4 @@
-package com.cssl.foodlovers.project;
+-package com.cssl.foodlovers.project;
 
 import java.util.Scanner;
 
@@ -7,7 +7,7 @@ import java.util.Scanner;
  * time:2020-06-09
  * version:1.2
  *  1.1-1.2 增加了取消订单
- * 
+ * 测试github.com
  * */
 public class FoodOrderSys {
 	public static void main(String[] args) {
